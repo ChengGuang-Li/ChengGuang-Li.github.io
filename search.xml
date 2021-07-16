@@ -1,116 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>8-31-9-6-schedule</title>
-    <url>/2020/08/30/8-31-9-6-schedule/</url>
-    <content><![CDATA[<p>title: 8-31-9-6-schedule<br>date: 2020-08-30 20:14:00<br>tags: schedule<br>categories: schedule</p>
-<h1 id="8-30–9-06-schedule"><a href="#8-30–9-06-schedule" class="headerlink" title="8/30–9/06 schedule"></a>8/30–9/06 schedule</h1><table>
-<thead>
-<tr>
-<th>Time</th>
-<th align="center">Mon</th>
-<th>Tue</th>
-<th>Wed</th>
-<th>Thu</th>
-<th>Fri</th>
-<th>Sat</th>
-<th>Sun</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>8:00 am - 10:00 am</td>
-<td align="center">FIT5147 ASSESS</td>
-<td>FIT5140 Lecture</td>
-<td>FIT5140 ASSESS</td>
-<td>练习 听力 + FIT5140</td>
-<td>练习听力 + Leetcode  Java</td>
-<td>记单词+ Leetcode  Java</td>
-<td>记单词+ Leetcode  Java</td>
-</tr>
-<tr>
-<td>10:00 am - 12: 00 am</td>
-<td align="center">leetcode Java + interview</td>
-<td>FIT5140 lab 作业</td>
-<td>FIT5163 LEC</td>
-<td>Leetcode Java</td>
-<td>FIT5147 Lec</td>
-<td>接Min</td>
-<td>Leetcode  Java</td>
-</tr>
-<tr>
-<td>12:00pm - 1:50pm</td>
-<td align="center">吃饭 &amp;&amp; 午睡</td>
-<td>吃饭 &amp;&amp; 午睡</td>
-<td>FIT5163 LEC</td>
-<td>吃饭 &amp;&amp; 午睡</td>
-<td>FIT5042 lab</td>
-<td>休息</td>
-<td>吃饭 &amp;&amp; 午睡</td>
-</tr>
-<tr>
-<td>2:00 pm - 4: 00 pm</td>
-<td align="center">FIT5163 lab</td>
-<td>FIT5042 lab 作业</td>
-<td>FIT5042  LAB</td>
-<td>预习FIT5042</td>
-<td>FIT5140 ASSESS</td>
-<td>Leetcode  Java</td>
-<td>FIT5140 ASSESS</td>
-</tr>
-<tr>
-<td>4:00 pm - 6: 00 pm</td>
-<td align="center">FIT5042 ASSESS</td>
-<td>FIT5147 ASSESS</td>
-<td>休息+ leetcode</td>
-<td>Leetcode Java + 吃饭</td>
-<td>Leetcode  Java + 吃饭</td>
-<td>FIT5140 ASSESS</td>
-<td>送Min</td>
-</tr>
-<tr>
-<td>6: 00 pm - 7: 00pm</td>
-<td align="center">FIT5042 ASSESS</td>
-<td>FIT5147 ASSESS</td>
-<td>吃饭 &amp;&amp; 休息</td>
-<td>FIT5147  Lecture</td>
-<td>FIT5140 Lab</td>
-<td>吃饭 &amp;&amp; 休息</td>
-<td>吃饭 &amp;&amp; 休息</td>
-</tr>
-<tr>
-<td>7: 00 pm - 8: 00 pm</td>
-<td align="center">FIT5147 Lab</td>
-<td>FIT5042 Lecture+吃饭</td>
-<td>FIT5163</td>
-<td>FIT5147 Lecture</td>
-<td>FIT5140 Lab</td>
-<td>休息</td>
-<td>锻炼</td>
-</tr>
-<tr>
-<td>8: 00 pm - 10: 00 pm</td>
-<td align="center">FIT5147 Lab+吃饭</td>
-<td>FIT5042 Lecture</td>
-<td>Leetcode Java + 锻炼</td>
-<td>Leetcode Java + 锻炼</td>
-<td>FIT5140  ASSESS</td>
-<td>FIT5147 ASSESS</td>
-<td>刷面试题 + 定 下周计划</td>
-</tr>
-<tr>
-<td>10:00 pm - 11: 30 pm</td>
-<td align="center">FIT5042 LAB 作业</td>
-<td>FIT5140 lab 作业</td>
-<td>博客总结  + 洗漱   然后睡觉</td>
-<td>博客总结  + 洗漱   然后睡觉</td>
-<td>FIT5140  ASSESS</td>
-<td>博客总结  + 洗漱   然后睡觉</td>
-<td>博客总结  + 洗漱   然后睡觉</td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
     <title>8/03-8/09 schedule</title>
     <url>/2020/08/02/8-03-8-09-schedual/</url>
     <content><![CDATA[<h1 id="8-03-8-09-schedule"><a href="#8-03-8-09-schedule" class="headerlink" title="8/03-8/09 schedule"></a>8/03-8/09 schedule</h1><table>
@@ -223,45 +113,6 @@
       </categories>
       <tags>
         <tag>schedule</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Leetcode Array 4</title>
-    <url>/2020/08/13/Leetcode-Array-4/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Leetcode Array 3</title>
-    <url>/2020/08/10/Leetcode-Array-3/</url>
-    <content><![CDATA[<h1 id="Remove-Element"><a href="#Remove-Element" class="headerlink" title="Remove Element"></a>Remove Element</h1><h2 id="Question-Easy"><a href="#Question-Easy" class="headerlink" title="Question     * Easy *"></a>Question     <strong>* Easy *</strong></h2><h3 id="Given-an-array-nums-and-a-value-val-remove-all-instances-of-that-value-in-place-and-return-the-new-length-Do-not-allocate-extra-space-for-another-array-you-must-do-this-by-modifying-the-input-array-in-place-with-O-1-extra-memory-The-order-of-elements-can-be-changed-It-doesn’t-matter-what-you-leave-beyond-the-new-length"><a href="#Given-an-array-nums-and-a-value-val-remove-all-instances-of-that-value-in-place-and-return-the-new-length-Do-not-allocate-extra-space-for-another-array-you-must-do-this-by-modifying-the-input-array-in-place-with-O-1-extra-memory-The-order-of-elements-can-be-changed-It-doesn’t-matter-what-you-leave-beyond-the-new-length" class="headerlink" title="Given an array nums and a value val, remove all instances of that value in-place and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory. The order of elements can be changed. It doesn’t matter what you leave beyond the new length."></a>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank" rel="noopener"><strong>in-place</strong></a> and return the new length. Do not allocate extra space for another array, you must do this by <strong>modifying the input array <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank" rel="noopener">in-place</a></strong> with O(1) extra memory. The order of elements can be changed. It doesn’t matter what you leave beyond the new length.</h3><h3 id="Example-1"><a href="#Example-1" class="headerlink" title="Example 1"></a>Example 1</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Given nums &#x3D; [3,2,2,3], val &#x3D; 3,</span><br><span class="line"></span><br><span class="line">Your function should return length &#x3D; 2, with the first two elements of nums being 2.</span><br><span class="line"></span><br><span class="line">It doesn&#39;t matter what you leave beyond the returned length.</span><br></pre></td></tr></table></figure>
-
-<h3 id="Example-2"><a href="#Example-2" class="headerlink" title="Example 2"></a>Example 2</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Given nums &#x3D; [0,1,2,2,3,0,4,2], val &#x3D; 2,</span><br><span class="line"></span><br><span class="line">Your function should return length &#x3D; 5, with the first five elements of nums containing 0, 1, 3, 0, and 4.</span><br><span class="line"></span><br><span class="line">Note that the order of those five elements can be arbitrary.</span><br></pre></td></tr></table></figure>
-
-<h2 id="My-solution"><a href="#My-solution" class="headerlink" title="My solution"></a>My solution</h2><h3 id="Solution-1"><a href="#Solution-1" class="headerlink" title="Solution 1"></a>Solution 1</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">removeElement</span><span class="params">(<span class="keyword">int</span>[] nums, <span class="keyword">int</span> val)</span> </span>&#123;</span><br><span class="line">       <span class="keyword">boolean</span> tt = <span class="keyword">true</span>; </span><br><span class="line">       <span class="keyword">int</span> k; </span><br><span class="line">       <span class="keyword">int</span> f = <span class="number">0</span>;</span><br><span class="line">       <span class="keyword">int</span> temp;</span><br><span class="line">      <span class="keyword">for</span>(<span class="keyword">int</span> z=<span class="number">0</span>;z &lt; nums.length;z++)&#123;</span><br><span class="line">          <span class="keyword">if</span>(nums[z] != val)&#123;</span><br><span class="line">              f++;</span><br><span class="line">          &#125;          </span><br><span class="line">      &#125;</span><br><span class="line">      <span class="keyword">for</span> (<span class="keyword">int</span> i=<span class="number">0</span>; i&lt;f;i++)&#123;</span><br><span class="line">          tt = <span class="keyword">true</span>;</span><br><span class="line">          <span class="keyword">if</span> (nums[i] == val )&#123;</span><br><span class="line">              k = i;</span><br><span class="line">            <span class="keyword">while</span>(tt)&#123;</span><br><span class="line">               k++;</span><br><span class="line">               <span class="keyword">if</span>(nums[k] != val)&#123;</span><br><span class="line">                   tt=<span class="keyword">false</span>;</span><br><span class="line">                   temp = nums[i];  </span><br><span class="line">                   nums[i] = nums[k];</span><br><span class="line">                   nums[k] = temp;</span><br><span class="line">               &#125;</span><br><span class="line">                </span><br><span class="line">            &#125;</span><br><span class="line">              </span><br><span class="line">          &#125;</span><br><span class="line">      &#125;          </span><br><span class="line"> <span class="keyword">return</span> f;       </span><br><span class="line">        </span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>这个方法比较“笨”。 首先计算数组nums里面不等于val的个数 X。 最后就是利用循环，数组里面等于val的item被离这个item最近的不等于val的数字数字替代。 也可以说他们是交换位置。这是这个方法的思路。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/10/lJFOaSZGkECoyHs.png" alt=""></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/10/c7pCsdRFGfbT8Ko.png" alt=""></p>
-<h3 id="Solution-2"><a href="#Solution-2" class="headerlink" title="Solution 2"></a>Solution 2</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">removeElement</span><span class="params">(<span class="keyword">int</span>[] nums, <span class="keyword">int</span> val)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> index = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; nums.length; i++)&#123;</span><br><span class="line">            <span class="keyword">if</span> (nums[i] != val)&#123;</span><br><span class="line">                nums[index] = nums[i];</span><br><span class="line">                ++index;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">    <span class="keyword">return</span> index;    </span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>这个方法说实话很巧，和Leetcode solution中的一个思路很像。 大致思路就是循环这个数组把不等于val 的item逐个移到数组的前面。返回的index也就是数组中不等于val的个数。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/10/lJFOaSZGkECoyHs.png" alt=""></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/10/ApLQOtgT8XkqKBV.png" alt=""></p>
-<h2 id="Leetcode-Solution"><a href="#Leetcode-Solution" class="headerlink" title="Leetcode Solution"></a>Leetcode Solution</h2> <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">removeElement</span><span class="params">(<span class="keyword">int</span>[] nums, <span class="keyword">int</span> val)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">int</span> i = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">int</span> n = nums.length;</span><br><span class="line">    <span class="keyword">while</span> (i &lt; n) &#123;</span><br><span class="line">        <span class="keyword">if</span> (nums[i] == val) &#123;</span><br><span class="line">            nums[i] = nums[n - <span class="number">1</span>];</span><br><span class="line">            <span class="comment">// reduce array size by one</span></span><br><span class="line">            n--;</span><br><span class="line">        &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">            i++;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> n;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>When we encounter <strong>nums[i]=val</strong>, we can swap the current element out with the last element and dispose the last one. This essentially reduces the array’s size by 1.</p>
-<p>Note that the last element that was swapped in could be the value you want to remove itself. But don’t worry, in the next iteration we will still check this element.</p>
-<h3 id="Leetcode-Clarification"><a href="#Leetcode-Clarification" class="headerlink" title="Leetcode Clarification"></a>Leetcode Clarification</h3><p>Confused why the returned value is an integer but your answer is an array?</p>
-<p>Note that the input array is passed in by <strong>reference</strong>, which means modification to the input array will be known to the caller as well.</p>
-<p>Internally you can think of this:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F; nums is passed in by reference. (i.e., without making a copy)</span><br><span class="line">int len &#x3D; removeElement(nums, val);</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F; any modification to nums in your function would be known by the caller.</span><br><span class="line">&#x2F;&#x2F; using the length returned by your function, it prints the first len elements.</span><br><span class="line">for (int i &#x3D; 0; i &lt; len; i++) &#123;</span><br><span class="line">    print(nums[i]);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Leetcode Algorithm</category>
-        <category>Array</category>
-      </categories>
-      <tags>
-        <tag>Leetcode Algorithm</tag>
-        <tag>Array</tag>
       </tags>
   </entry>
   <entry>
@@ -380,6 +231,242 @@
       </tags>
   </entry>
   <entry>
+    <title>8-31-9-6-schedule</title>
+    <url>/2020/08/30/8-31-9-6-schedule/</url>
+    <content><![CDATA[<p>title: 8-31-9-6-schedule<br>date: 2020-08-30 20:14:00<br>tags: schedule<br>categories: schedule</p>
+<h1 id="8-30–9-06-schedule"><a href="#8-30–9-06-schedule" class="headerlink" title="8/30–9/06 schedule"></a>8/30–9/06 schedule</h1><table>
+<thead>
+<tr>
+<th>Time</th>
+<th align="center">Mon</th>
+<th>Tue</th>
+<th>Wed</th>
+<th>Thu</th>
+<th>Fri</th>
+<th>Sat</th>
+<th>Sun</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>8:00 am - 10:00 am</td>
+<td align="center">FIT5147 ASSESS</td>
+<td>FIT5140 Lecture</td>
+<td>FIT5140 ASSESS</td>
+<td>练习 听力 + FIT5140</td>
+<td>练习听力 + Leetcode  Java</td>
+<td>记单词+ Leetcode  Java</td>
+<td>记单词+ Leetcode  Java</td>
+</tr>
+<tr>
+<td>10:00 am - 12: 00 am</td>
+<td align="center">leetcode Java + interview</td>
+<td>FIT5140 lab 作业</td>
+<td>FIT5163 LEC</td>
+<td>Leetcode Java</td>
+<td>FIT5147 Lec</td>
+<td>接Min</td>
+<td>Leetcode  Java</td>
+</tr>
+<tr>
+<td>12:00pm - 1:50pm</td>
+<td align="center">吃饭 &amp;&amp; 午睡</td>
+<td>吃饭 &amp;&amp; 午睡</td>
+<td>FIT5163 LEC</td>
+<td>吃饭 &amp;&amp; 午睡</td>
+<td>FIT5042 lab</td>
+<td>休息</td>
+<td>吃饭 &amp;&amp; 午睡</td>
+</tr>
+<tr>
+<td>2:00 pm - 4: 00 pm</td>
+<td align="center">FIT5163 lab</td>
+<td>FIT5042 lab 作业</td>
+<td>FIT5042  LAB</td>
+<td>预习FIT5042</td>
+<td>FIT5140 ASSESS</td>
+<td>Leetcode  Java</td>
+<td>FIT5140 ASSESS</td>
+</tr>
+<tr>
+<td>4:00 pm - 6: 00 pm</td>
+<td align="center">FIT5042 ASSESS</td>
+<td>FIT5147 ASSESS</td>
+<td>休息+ leetcode</td>
+<td>Leetcode Java + 吃饭</td>
+<td>Leetcode  Java + 吃饭</td>
+<td>FIT5140 ASSESS</td>
+<td>送Min</td>
+</tr>
+<tr>
+<td>6: 00 pm - 7: 00pm</td>
+<td align="center">FIT5042 ASSESS</td>
+<td>FIT5147 ASSESS</td>
+<td>吃饭 &amp;&amp; 休息</td>
+<td>FIT5147  Lecture</td>
+<td>FIT5140 Lab</td>
+<td>吃饭 &amp;&amp; 休息</td>
+<td>吃饭 &amp;&amp; 休息</td>
+</tr>
+<tr>
+<td>7: 00 pm - 8: 00 pm</td>
+<td align="center">FIT5147 Lab</td>
+<td>FIT5042 Lecture+吃饭</td>
+<td>FIT5163</td>
+<td>FIT5147 Lecture</td>
+<td>FIT5140 Lab</td>
+<td>休息</td>
+<td>锻炼</td>
+</tr>
+<tr>
+<td>8: 00 pm - 10: 00 pm</td>
+<td align="center">FIT5147 Lab+吃饭</td>
+<td>FIT5042 Lecture</td>
+<td>Leetcode Java + 锻炼</td>
+<td>Leetcode Java + 锻炼</td>
+<td>FIT5140  ASSESS</td>
+<td>FIT5147 ASSESS</td>
+<td>刷面试题 + 定 下周计划</td>
+</tr>
+<tr>
+<td>10:00 pm - 11: 30 pm</td>
+<td align="center">FIT5042 LAB 作业</td>
+<td>FIT5140 lab 作业</td>
+<td>博客总结  + 洗漱   然后睡觉</td>
+<td>博客总结  + 洗漱   然后睡觉</td>
+<td>FIT5140  ASSESS</td>
+<td>博客总结  + 洗漱   然后睡觉</td>
+<td>博客总结  + 洗漱   然后睡觉</td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>Backtricking Algorithm</title>
+    <url>/2021/07/16/Backtricking-Algorithm/</url>
+    <content><![CDATA[<h2 id="回溯算法-Backtricking"><a href="#回溯算法-Backtricking" class="headerlink" title="回溯算法(Backtricking)"></a>回溯算法(Backtricking)</h2><p> 回溯逻辑部分一般存在递归函数下面</p>
+<h2 id="解决那些问题"><a href="#解决那些问题" class="headerlink" title="解决那些问题"></a>解决那些问题</h2><ul>
+<li><p>组合问题 </p>
+<p>​     Eg: 给定 {1，2，3，4} 集合， 找到大小为2的组合。 </p>
+</li>
+<li><p>切割问题 </p>
+<p>​     Eg：给定一串字符串，特定条件下，问有几种切割的方式。</p>
+</li>
+<li><p>子集问题</p>
+<p>​     Eg: 给定 {1，2，3，4} 集合，找到它的所有子集。</p>
+</li>
+<li><p>排列问题</p>
+<p>​      Eg: 讲顺序的组合问题</p>
+</li>
+<li><p>棋盘问题</p>
+<p>​    Eg: N-Queen 和 解数独</p>
+</li>
+</ul>
+<h3 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h3><ul>
+<li><p>把回溯法问题最好抽象成图形结构，比如树结构。更好的方便理解。</p>
+<p> 树的宽度，就是处理问题集合的大小。<font color=red> <strong>这里通常用for循环遍历</strong> </font></p>
+<p> 树的深度，就是递归函数的深度。  <font color=red>    <strong>这里就是递归函数处理</strong></font></p>
+<p> <img src= "/img/loading.gif" data-src="/img/backtrickTemplete.png" alt="图形结构"></p>
+</li>
+<li><p>回溯就是递归的过程</p>
+<ol>
+<li><p>递归就一定有终止条件。</p>
+</li>
+<li><p>在这里递归函数没有返回值 </p>
+</li>
+</ol>
+</li>
+<li><p>模板</p>
+   <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span>  <span class="title">backtricking</span><span class="params">(parameters)</span></span>&#123;</span><br><span class="line">  <span class="comment">//递归终止 和 收集结果</span></span><br><span class="line">  <span class="keyword">if</span>(终止条件)&#123;</span><br><span class="line">   <span class="comment">// 收集结果</span></span><br><span class="line">   <span class="keyword">return</span>;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="comment">//单层搜索逻辑</span></span><br><span class="line">  <span class="comment">//for循环 处理集合里每一个搜索元素，树中节点孩子的数量就是集合大小</span></span><br><span class="line">  <span class="keyword">for</span>(本层集合元素集)&#123;</span><br><span class="line">    <span class="comment">// 根据条件 处理节点 以便于在满足终止条件时收集结果。</span></span><br><span class="line">    <span class="comment">// 递归过程 backtricking(parameters)</span></span><br><span class="line">    <span class="comment">// 回溯操作，撤销上一步处理节点的情况。比如: &#123;1,2&#125; 要把2 弹出去重新变成&#123;1&#125; 才能允许3再加进去。 </span></span><br><span class="line">  &#125;</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Backtricking Algorithm</category>
+        <category>Algorithm</category>
+      </categories>
+      <tags>
+        <tag>Backtricking Algorithm</tag>
+        <tag>Algorithm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FIT5042 JSF</title>
+    <url>/2020/08/12/FIT5042-1/</url>
+    <content><![CDATA[<p> Lecturer 讲得太尴尬了。每次两小时的tutorial，讲10分钟要做什么然后就自己开始照着资料做。很多概念也没讲，这门课真的小白从到一点点学。</p>
+<h1 id="JSF"><a href="#JSF" class="headerlink" title="JSF"></a>JSF</h1><p><strong><em>JSF</em></strong>(JavaServer Faces)是基于服务端组件的用户界面框架。JSF 的优势之一是不仅是Java Web用户界面标准还是遵循MVC设计模式的框架。清晰的WEB应用程序的行为和呈现之间的分离。 用户界面代码(V), 应用程序数据和逻辑(M). 为了防止对页面未授权或不正当的访问，所有与应用程序的用户交互均由一个前端”Faces” servlet (C) 来处理。 V–&gt;视图   M—&gt;模型 C—&gt; 控制器。</p>
+<h2 id="Servlet"><a href="#Servlet" class="headerlink" title="Servlet"></a>Servlet</h2><p><a href="https://www.runoob.com/servlet/servlet-intro.html" target="_blank" rel="noopener">Servlet是什么</a></p>
+<p>Java Servlet 是作为Http 客户端的请求和数据库的之间的中间层。 </p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/13/nZOsQJHvxkKmpaC.png" alt=""></p>
+<h2 id="Java-Bean"><a href="#Java-Bean" class="headerlink" title="Java Bean"></a>Java Bean</h2><p> Java Bean 就是一个java 普通的类，通常用来实现一些比较常用的简单功能，并可以很容易被重复使用或者插入其他应用中去。Java Bean 是一种组件技术，就像是做了一个扳手，而这个扳手可以在很多地方使用，也可以提供很多功能(扳，锤，撬)， 而这个扳手就是一个组件.</p>
+<p>Bean的含义是可重复使用的Java组件。所谓组件就是一个由可以自行进行内部管理的一个或几个类组成.  并且外界不了解其内部信息和运行方式的群体.   使用它的对象只能通过接口来操作.</p>
+<p>但是Java Bean有额外的要求： </p>
+<ol>
+<li><p>这个类需是public.   并且有一个default constructor. </p>
+</li>
+<li><p>这个类的属性必须是private,通过public 类型的setXxx() 和 getXxx() 访问. </p>
+</li>
+<li><p>可以把bean的状态保存在硬盘上，以便后来可以恢复。</p>
+</li>
+<li><p>这个类要能支持”事件”,比如addXxxListener(XxxEvent e),事件可以是click事件,keyboard事件，自定义事件等</p>
+</li>
+<li><p>所有的JavaBean必须放在一个包（package）中。</p>
+<p><a href="https://juejin.im/post/6844903906623881230" target="_blank" rel="noopener">Java Bean 掘金</a></p>
+</li>
+</ol>
+<p>​      <a href="https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans" target="_blank" rel="noopener">Java Bean vs POJO vs VO</a></p>
+<p>​        </p>
+]]></content>
+      <tags>
+        <tag>Enterprise application development for the web</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Leetcode Array 3</title>
+    <url>/2020/08/10/Leetcode-Array-3/</url>
+    <content><![CDATA[<h1 id="Remove-Element"><a href="#Remove-Element" class="headerlink" title="Remove Element"></a>Remove Element</h1><h2 id="Question-Easy"><a href="#Question-Easy" class="headerlink" title="Question     * Easy *"></a>Question     <strong>* Easy *</strong></h2><h3 id="Given-an-array-nums-and-a-value-val-remove-all-instances-of-that-value-in-place-and-return-the-new-length-Do-not-allocate-extra-space-for-another-array-you-must-do-this-by-modifying-the-input-array-in-place-with-O-1-extra-memory-The-order-of-elements-can-be-changed-It-doesn’t-matter-what-you-leave-beyond-the-new-length"><a href="#Given-an-array-nums-and-a-value-val-remove-all-instances-of-that-value-in-place-and-return-the-new-length-Do-not-allocate-extra-space-for-another-array-you-must-do-this-by-modifying-the-input-array-in-place-with-O-1-extra-memory-The-order-of-elements-can-be-changed-It-doesn’t-matter-what-you-leave-beyond-the-new-length" class="headerlink" title="Given an array nums and a value val, remove all instances of that value in-place and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory. The order of elements can be changed. It doesn’t matter what you leave beyond the new length."></a>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank" rel="noopener"><strong>in-place</strong></a> and return the new length. Do not allocate extra space for another array, you must do this by <strong>modifying the input array <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank" rel="noopener">in-place</a></strong> with O(1) extra memory. The order of elements can be changed. It doesn’t matter what you leave beyond the new length.</h3><h3 id="Example-1"><a href="#Example-1" class="headerlink" title="Example 1"></a>Example 1</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Given nums &#x3D; [3,2,2,3], val &#x3D; 3,</span><br><span class="line"></span><br><span class="line">Your function should return length &#x3D; 2, with the first two elements of nums being 2.</span><br><span class="line"></span><br><span class="line">It doesn&#39;t matter what you leave beyond the returned length.</span><br></pre></td></tr></table></figure>
+
+<h3 id="Example-2"><a href="#Example-2" class="headerlink" title="Example 2"></a>Example 2</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Given nums &#x3D; [0,1,2,2,3,0,4,2], val &#x3D; 2,</span><br><span class="line"></span><br><span class="line">Your function should return length &#x3D; 5, with the first five elements of nums containing 0, 1, 3, 0, and 4.</span><br><span class="line"></span><br><span class="line">Note that the order of those five elements can be arbitrary.</span><br></pre></td></tr></table></figure>
+
+<h2 id="My-solution"><a href="#My-solution" class="headerlink" title="My solution"></a>My solution</h2><h3 id="Solution-1"><a href="#Solution-1" class="headerlink" title="Solution 1"></a>Solution 1</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">removeElement</span><span class="params">(<span class="keyword">int</span>[] nums, <span class="keyword">int</span> val)</span> </span>&#123;</span><br><span class="line">       <span class="keyword">boolean</span> tt = <span class="keyword">true</span>; </span><br><span class="line">       <span class="keyword">int</span> k; </span><br><span class="line">       <span class="keyword">int</span> f = <span class="number">0</span>;</span><br><span class="line">       <span class="keyword">int</span> temp;</span><br><span class="line">      <span class="keyword">for</span>(<span class="keyword">int</span> z=<span class="number">0</span>;z &lt; nums.length;z++)&#123;</span><br><span class="line">          <span class="keyword">if</span>(nums[z] != val)&#123;</span><br><span class="line">              f++;</span><br><span class="line">          &#125;          </span><br><span class="line">      &#125;</span><br><span class="line">      <span class="keyword">for</span> (<span class="keyword">int</span> i=<span class="number">0</span>; i&lt;f;i++)&#123;</span><br><span class="line">          tt = <span class="keyword">true</span>;</span><br><span class="line">          <span class="keyword">if</span> (nums[i] == val )&#123;</span><br><span class="line">              k = i;</span><br><span class="line">            <span class="keyword">while</span>(tt)&#123;</span><br><span class="line">               k++;</span><br><span class="line">               <span class="keyword">if</span>(nums[k] != val)&#123;</span><br><span class="line">                   tt=<span class="keyword">false</span>;</span><br><span class="line">                   temp = nums[i];  </span><br><span class="line">                   nums[i] = nums[k];</span><br><span class="line">                   nums[k] = temp;</span><br><span class="line">               &#125;</span><br><span class="line">                </span><br><span class="line">            &#125;</span><br><span class="line">              </span><br><span class="line">          &#125;</span><br><span class="line">      &#125;          </span><br><span class="line"> <span class="keyword">return</span> f;       </span><br><span class="line">        </span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>这个方法比较“笨”。 首先计算数组nums里面不等于val的个数 X。 最后就是利用循环，数组里面等于val的item被离这个item最近的不等于val的数字数字替代。 也可以说他们是交换位置。这是这个方法的思路。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/10/lJFOaSZGkECoyHs.png" alt=""></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/10/c7pCsdRFGfbT8Ko.png" alt=""></p>
+<h3 id="Solution-2"><a href="#Solution-2" class="headerlink" title="Solution 2"></a>Solution 2</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">removeElement</span><span class="params">(<span class="keyword">int</span>[] nums, <span class="keyword">int</span> val)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> index = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; nums.length; i++)&#123;</span><br><span class="line">            <span class="keyword">if</span> (nums[i] != val)&#123;</span><br><span class="line">                nums[index] = nums[i];</span><br><span class="line">                ++index;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">    <span class="keyword">return</span> index;    </span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>这个方法说实话很巧，和Leetcode solution中的一个思路很像。 大致思路就是循环这个数组把不等于val 的item逐个移到数组的前面。返回的index也就是数组中不等于val的个数。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/10/lJFOaSZGkECoyHs.png" alt=""></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/10/ApLQOtgT8XkqKBV.png" alt=""></p>
+<h2 id="Leetcode-Solution"><a href="#Leetcode-Solution" class="headerlink" title="Leetcode Solution"></a>Leetcode Solution</h2> <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">removeElement</span><span class="params">(<span class="keyword">int</span>[] nums, <span class="keyword">int</span> val)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">int</span> i = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">int</span> n = nums.length;</span><br><span class="line">    <span class="keyword">while</span> (i &lt; n) &#123;</span><br><span class="line">        <span class="keyword">if</span> (nums[i] == val) &#123;</span><br><span class="line">            nums[i] = nums[n - <span class="number">1</span>];</span><br><span class="line">            <span class="comment">// reduce array size by one</span></span><br><span class="line">            n--;</span><br><span class="line">        &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">            i++;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> n;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>When we encounter <strong>nums[i]=val</strong>, we can swap the current element out with the last element and dispose the last one. This essentially reduces the array’s size by 1.</p>
+<p>Note that the last element that was swapped in could be the value you want to remove itself. But don’t worry, in the next iteration we will still check this element.</p>
+<h3 id="Leetcode-Clarification"><a href="#Leetcode-Clarification" class="headerlink" title="Leetcode Clarification"></a>Leetcode Clarification</h3><p>Confused why the returned value is an integer but your answer is an array?</p>
+<p>Note that the input array is passed in by <strong>reference</strong>, which means modification to the input array will be known to the caller as well.</p>
+<p>Internally you can think of this:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F; nums is passed in by reference. (i.e., without making a copy)</span><br><span class="line">int len &#x3D; removeElement(nums, val);</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F; any modification to nums in your function would be known by the caller.</span><br><span class="line">&#x2F;&#x2F; using the length returned by your function, it prints the first len elements.</span><br><span class="line">for (int i &#x3D; 0; i &lt; len; i++) &#123;</span><br><span class="line">    print(nums[i]);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Leetcode Algorithm</category>
+        <category>Array</category>
+      </categories>
+      <tags>
+        <tag>Leetcode Algorithm</tag>
+        <tag>Array</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Leetcode Array 4</title>
+    <url>/2020/08/13/Leetcode-Array-4/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Leetcode Array 1</title>
     <url>/2020/08/03/LeetcodeTwoSum1/</url>
     <content><![CDATA[<h1 id="Two-Sum"><a href="#Two-Sum" class="headerlink" title="Two Sum"></a>Two Sum</h1><h2 id="Question-Easy"><a href="#Question-Easy" class="headerlink" title="Question     * Easy *"></a>Question     <strong>* Easy *</strong></h2><h3 id="Given-an-array-of-integers-return-indices-of-the-two-numbers-such-that-they-add-up-to-a-specific-target-You-may-assume-that-each-input-would-have-exactly-one-solution-and-you-may-not-use-the-same-element-twice"><a href="#Given-an-array-of-integers-return-indices-of-the-two-numbers-such-that-they-add-up-to-a-specific-target-You-may-assume-that-each-input-would-have-exactly-one-solution-and-you-may-not-use-the-same-element-twice" class="headerlink" title="Given an array of integers, return indices of the two numbers such that they add up to a specific target.  (You may assume that each input would have exactly one solution, and you may not use the same element twice.)"></a>Given an array of integers, return <strong>indices</strong> of the two numbers such that they add up to a specific target.  (You may assume that each input would have <strong><em>exactly</em></strong> one solution, and you may not use the <em>same</em> element twice.)</h3><h2 id="Hints："><a href="#Hints：" class="headerlink" title="Hints："></a>Hints：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Given nums &#x3D; [2, 7, 11, 15], target &#x3D; 9,</span><br><span class="line"></span><br><span class="line">Because nums[0] + nums[1] &#x3D; 2 + 7 &#x3D; 9,</span><br><span class="line">return [0, 1].</span><br></pre></td></tr></table></figure>
@@ -478,93 +565,6 @@
       <tags>
         <tag>Leetcode Algorithm</tag>
         <tag>Array</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FIT5042 JSF</title>
-    <url>/2020/08/12/FIT5042-1/</url>
-    <content><![CDATA[<p> Lecturer 讲得太尴尬了。每次两小时的tutorial，讲10分钟要做什么然后就自己开始照着资料做。很多概念也没讲，这门课真的小白从到一点点学。</p>
-<h1 id="JSF"><a href="#JSF" class="headerlink" title="JSF"></a>JSF</h1><p><strong><em>JSF</em></strong>(JavaServer Faces)是基于服务端组件的用户界面框架。JSF 的优势之一是不仅是Java Web用户界面标准还是遵循MVC设计模式的框架。清晰的WEB应用程序的行为和呈现之间的分离。 用户界面代码(V), 应用程序数据和逻辑(M). 为了防止对页面未授权或不正当的访问，所有与应用程序的用户交互均由一个前端”Faces” servlet (C) 来处理。 V–&gt;视图   M—&gt;模型 C—&gt; 控制器。</p>
-<h2 id="Servlet"><a href="#Servlet" class="headerlink" title="Servlet"></a>Servlet</h2><p><a href="https://www.runoob.com/servlet/servlet-intro.html" target="_blank" rel="noopener">Servlet是什么</a></p>
-<p>Java Servlet 是作为Http 客户端的请求和数据库的之间的中间层。 </p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/08/13/nZOsQJHvxkKmpaC.png" alt=""></p>
-<h2 id="Java-Bean"><a href="#Java-Bean" class="headerlink" title="Java Bean"></a>Java Bean</h2><p> Java Bean 就是一个java 普通的类，通常用来实现一些比较常用的简单功能，并可以很容易被重复使用或者插入其他应用中去。Java Bean 是一种组件技术，就像是做了一个扳手，而这个扳手可以在很多地方使用，也可以提供很多功能(扳，锤，撬)， 而这个扳手就是一个组件.</p>
-<p>Bean的含义是可重复使用的Java组件。所谓组件就是一个由可以自行进行内部管理的一个或几个类组成.  并且外界不了解其内部信息和运行方式的群体.   使用它的对象只能通过接口来操作.</p>
-<p>但是Java Bean有额外的要求： </p>
-<ol>
-<li><p>这个类需是public.   并且有一个default constructor. </p>
-</li>
-<li><p>这个类的属性必须是private,通过public 类型的setXxx() 和 getXxx() 访问. </p>
-</li>
-<li><p>可以把bean的状态保存在硬盘上，以便后来可以恢复。</p>
-</li>
-<li><p>这个类要能支持”事件”,比如addXxxListener(XxxEvent e),事件可以是click事件,keyboard事件，自定义事件等</p>
-</li>
-<li><p>所有的JavaBean必须放在一个包（package）中。</p>
-<p><a href="https://juejin.im/post/6844903906623881230" target="_blank" rel="noopener">Java Bean 掘金</a></p>
-</li>
-</ol>
-<p>​      <a href="https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans" target="_blank" rel="noopener">Java Bean vs POJO vs VO</a></p>
-<p>​        </p>
-]]></content>
-      <tags>
-        <tag>Enterprise application development for the web</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Backtricking Algorithm</title>
-    <url>/2021/07/16/Backtricking-Algorithm/</url>
-    <content><![CDATA[<h2 id="回溯算法-Backtricking"><a href="#回溯算法-Backtricking" class="headerlink" title="回溯算法(Backtricking)"></a>回溯算法(Backtricking)</h2><p> 回溯逻辑部分一般存在递归函数下面</p>
-<h2 id="解决那些问题"><a href="#解决那些问题" class="headerlink" title="解决那些问题"></a>解决那些问题</h2><ul>
-<li><p>组合问题 </p>
-<p>​     Eg: 给定 {1，2，3，4} 集合， 找到大小为2的组合。 </p>
-</li>
-<li><p>切割问题 </p>
-<p>​     Eg：给定一串字符串，特定条件下，问有几种切割的方式。</p>
-</li>
-<li><p>子集问题</p>
-<p>​     Eg: 给定 {1，2，3，4} 集合，找到它的所有子集。</p>
-</li>
-<li><p>排列问题</p>
-<p>​      Eg: 讲顺序的组合问题</p>
-</li>
-<li><p>棋盘问题</p>
-<p>​    Eg: N-Queen 和 解数独</p>
-</li>
-</ul>
-<h3 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h3><ul>
-<li><p>把回溯法问题最好抽象成图形结构，比如树结构。更好的方便理解。</p>
-<p> 树的宽度，就是处理问题集合的大小。<font color=red> <strong>这里通常用for循环遍历</strong> </font></p>
-<p> 树的深度，就是递归函数的深度。  <font color=red>    <strong>这里就是递归函数处理</strong></font></p>
-<p> <img src= "/img/loading.gif" data-src="/img/backtrickTemplete.png" alt="图形结构"></p>
-</li>
-<li><p>回溯就是递归的过程</p>
-<ol>
-<li><p>递归就一定有终止条件。</p>
-</li>
-<li><p>在这里递归函数没有返回值 </p>
-</li>
-</ol>
-</li>
-<li><p>模板</p>
-   <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span>  <span class="title">backtricking</span><span class="params">(parameters)</span></span>&#123;</span><br><span class="line">  <span class="comment">//递归终止 和 收集结果</span></span><br><span class="line">  <span class="keyword">if</span>(终止条件)&#123;</span><br><span class="line">   <span class="comment">// 收集结果</span></span><br><span class="line">   <span class="keyword">return</span>;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="comment">//单层搜索逻辑</span></span><br><span class="line">  <span class="comment">//for循环 处理集合里每一个搜索元素，树中节点孩子的数量就是集合大小</span></span><br><span class="line">  <span class="keyword">for</span>(本层集合元素集)&#123;</span><br><span class="line">    <span class="comment">// 根据条件 处理节点 以便于在满足终止条件时收集结果。</span></span><br><span class="line">    <span class="comment">// 递归过程 backtricking(parameters)</span></span><br><span class="line">    <span class="comment">// 回溯操作，撤销上一步处理节点的情况。比如: &#123;1,2&#125; 要把2 弹出去重新变成&#123;1&#125; 才能允许3再加进去。 </span></span><br><span class="line">  &#125;</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Backtricking Algorithm</category>
-        <category>Algorithm</category>
-      </categories>
-      <tags>
-        <tag>Backtricking Algorithm</tag>
-        <tag>Algorithm</tag>
       </tags>
   </entry>
 </search>
