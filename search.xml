@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Reverse Linked List</title>
+      <link href="/2021/07/21/Reverse-Linked-List/"/>
+      <url>/2021/07/21/Reverse-Linked-List/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Reverse-Linked-List"><a href="#Reverse-Linked-List" class="headerlink" title="Reverse Linked List"></a>Reverse Linked List</h2><p><a href="https://leetcode.com/problems/reverse-linked-list/description/" target="_blank" rel="noopener">Leetcode 206.</a></p><h3 id="Version-1-Recursion"><a href="#Version-1-Recursion" class="headerlink" title="Version 1  Recursion"></a>Version 1  Recursion</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for singly-linked list.</span></span><br><span class="line"><span class="comment"> * public class ListNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     ListNode next;</span></span><br><span class="line"><span class="comment"> *     ListNode() &#123;&#125;</span></span><br><span class="line"><span class="comment"> *     ListNode(int val) &#123; this.val = val; &#125;</span></span><br><span class="line"><span class="comment"> *     ListNode(int val, ListNode next) &#123; this.val = val; this.next = next; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> ListNode <span class="title">reverseList</span><span class="params">(ListNode head)</span> </span>&#123;</span><br><span class="line">       <span class="keyword">if</span>(head == <span class="keyword">null</span> || head.next == <span class="keyword">null</span>)&#123;</span><br><span class="line">           <span class="keyword">return</span> head;</span><br><span class="line">       &#125;</span><br><span class="line">       ListNode temp = reverseList(head.next);   </span><br><span class="line">       head.next.next = head;</span><br><span class="line">       head.next = <span class="keyword">null</span>; </span><br><span class="line">    <span class="keyword">return</span> temp; </span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="Version-2-Head-insertion"><a href="#Version-2-Head-insertion" class="headerlink" title="Version 2 Head insertion"></a>Version 2 Head insertion</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for singly-linked list.</span></span><br><span class="line"><span class="comment"> * public class ListNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     ListNode next;</span></span><br><span class="line"><span class="comment"> *     ListNode() &#123;&#125;</span></span><br><span class="line"><span class="comment"> *     ListNode(int val) &#123; this.val = val; &#125;</span></span><br><span class="line"><span class="comment"> *     ListNode(int val, ListNode next) &#123; this.val = val; this.next = next; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> ListNode <span class="title">reverseList</span><span class="params">(ListNode head)</span> </span>&#123;</span><br><span class="line">      ListNode newOne = <span class="keyword">new</span> ListNode(-<span class="number">1</span>);</span><br><span class="line">      <span class="keyword">while</span>(head != <span class="keyword">null</span>)&#123;</span><br><span class="line">          ListNode next = head.next; </span><br><span class="line">          head.next = newOne.next; </span><br><span class="line">          newOne.next = head;</span><br><span class="line">          head = next;</span><br><span class="line">      &#125;</span><br><span class="line">    <span class="keyword">return</span> newOne.next;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data Structures </category>
+          
+          <category> Linked List </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Leetcode Algorithm </tag>
+            
+            <tag> Data Structures </tag>
+            
+            <tag> Linked List </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Intersection of Two Linked Lists</title>
       <link href="/2021/07/21/Intersection-of-Two-Linked-Lists/"/>
       <url>/2021/07/21/Intersection-of-Two-Linked-Lists/</url>
